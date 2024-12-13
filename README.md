@@ -2,5 +2,6 @@
 Hello World repository for Git tutorial.
 This is an example repository for the Git tutorial.
 This repository is built step by step in the tutorial.
-Pushed my first remote repo
+Pushed my first remote repo.
 This is getting interesting.
+This is another line.
